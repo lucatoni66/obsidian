@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//DAILY_NOTES"
+    "//DAILY_NOTES",
+    "//Clippings"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -7,7 +7,7 @@ color: var(--mk-color-teal)
 
 ## TODO
 
-- [ ] obsidian git
+- [x] obsidian git
 - [ ] ipxe boot research
 - [ ] kexec research
 - [ ] hermes agent

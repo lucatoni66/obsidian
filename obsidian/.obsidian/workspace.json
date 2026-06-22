@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "761c9e841efb0a38",
+        "id": "53c5009ae7b5e4fa",
         "type": "tabs",
         "children": [
           {
-            "id": "98a0c216338131ba",
+            "id": "2a14a4f383b8a91f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Running ~30B MoE models on an old GTX 1080.md",
+                "file": "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Running ~30B MoE models on an old GTX 1080"
+              "title": "Can I Run AI on My GPU or Mac Free Compatibility Check"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "c5c11ba7a6192ace",
+            "id": "07211322440f9586",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Running ~30B MoE models on an old GTX 1080.md",
+                "file": "Clippings/Can I Run AI on My GPU or Mac Free Compatibility Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Running ~30B MoE models on an old GTX 1080"
+              "title": "Backlinks for Can I Run AI on My GPU or Mac Free Compatibility Check"
             }
           },
           {
@@ -194,48 +194,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "remotely-save:Remotely Save": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98a0c216338131ba",
+  "active": "07211322440f9586",
   "lastOpenFiles": [
-    "MAIN KANBAN.md",
-    "Clippings/Running ~30B MoE models on an old GTX 1080.md",
+    "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check 1.md",
+    "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check.md",
     "DAILY_NOTES/2026-06-18.md",
-    "TRASH/TRASH.md",
-    "Clippings/Trivy vs Grype vs Snyk Container Vulnerability Scanners Shootout.md",
+    "SECURITY/The All-in-One Security Scanner.md",
+    "Clippings/Clippings.md",
+    "LLM/Mac Studio M3 Ultra 96GB AI Tier List 325 models ranked.md",
+    "LAZARUS/Soulver 3 - Notepad Calculator App for Mac, iPad & iPhone.md",
+    "LLM/Welcome to FastMCP.md",
+    "VARIOUS/Your favorite operating systems in one place 1.md",
+    "HERMES/My Hermes Journey.md",
+    "HERMES/Memory Providers I tested them all.md",
+    "SECURITY/Trivy vs Grype vs Snyk Container Vulnerability Scanners Shootout.md",
+    "LAZARUS/Soulver for Mac, iPad & iPhone.md",
+    "LLM/Setting Up Claude Code With Ollama A Guide.md",
+    "VARIOUS/Self-Host Your Homelab Tunnels On bunny.net.md",
+    "LLM/Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide).md",
+    "LLM/Prompting Techniques.md",
+    "LLM/Prompt engineering  OpenAI API.md",
+    "LLM/Open-Source LLM Tools Worth Your Time.md",
+    "Clippings/Open-Source LLM Tools Worth Your Time 1.md",
+    "LAZARUS/DaisyDisk, the most popular disk space analyzer.md",
+    "SECURITY/Copy Fail — 732 Bytes to Root.md",
+    "SECURITY/SECURITY.md",
+    "SECURITY",
+    "AI/AI Engineer.md",
+    "VARIOUS/4 Best Freedium Alternatives to Read Medium Articles for Free Working.md",
+    "FOREX/Volume Profile Effective Trading Guide.md",
+    "LAZARUS",
+    "FOREX",
+    "INFRA",
     "HERMES",
-    "Clippings/The All-in-One Security Scanner.md",
-    "Clippings/Hermes Agent Wiki — Community Documentation & Knowledge Base.md",
-    "Clippings/wysiemnemosyne-dashboard Local-only read-only web dashboard for Mnemosyne memory stores.md",
-    "Clippings/The Zero-Dependency AI Memory System.md",
-    "Clippings/Memory Providers I tested them all.md",
-    "Clippings/Memory Providers I tested them all 1.md",
-    "Vault.md",
-    "Clippings/My Hermes Journey.md",
-    "Clippings/Your favorite operating systems in one place 1.md",
-    "Clippings/Your favorite operating systems in one place.md",
-    "Clippings/Welcome to FastMCP.md",
     "Untitled.canvas",
-    "2026-06-18.md",
     "DAILY_NOTES",
     "Untitled.base",
-    "Untitled.md",
-    "TRASH/Untitled Kanban 2.md",
-    "TRASH/Untitled Kanban 1.md",
-    "TRASH/Untitled Kanban.md",
     "TRASH/Untitled 2.base",
     "TRASH/Untitled 1.base",
-    "TRASH/Untitled.base",
-    "Excalidraw/Drawing 2026-06-18 10.53.41.excalidraw.md",
-    "Excalidraw/Drawing 2026-06-18 10.53.34.excalidraw.md",
-    "Excalidraw",
-    "Clippings/Volume Profile Effective Trading Guide 1.md",
-    "Clippings/fatedierfrp A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet..md",
-    "Clippings/Self-Host Your Homelab Tunnels On bunny.net.md",
-    "VPNs",
-    "AI",
-    "VARIOUS"
+    "TRASH/Untitled.base"
   ]
 }
