@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check.md",
+                "file": "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Can I Run AI on My GPU or Mac Free Compatibility Check"
+              "title": "I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible."
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "07211322440f9586",
+            "id": "2caec1b7a39a7210",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,10 +197,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07211322440f9586",
+  "active": "2a14a4f383b8a91f",
   "lastOpenFiles": [
-    "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check 1.md",
+    "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy).md",
+    "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md",
+    "Clippings AI LLM",
+    "Clippings/Order Flow and Market Profile Course.md",
+    "Clippings/The best course I've ever watched is for free.md",
+    "Clippings/Forex Correlation.md",
+    "Clippings/TWS API Documentation.md",
+    "Clippings/Saxo Bank Developer Portal.md",
+    "Clippings/Developer-first API for Stock, Options, Crypto Trading.md",
+    "Clippings/I Built a FREE TradingView Alternative Using AI (Any Indicator).md",
     "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check.md",
+    "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check 1.md",
     "DAILY_NOTES/2026-06-18.md",
     "SECURITY/The All-in-One Security Scanner.md",
     "Clippings/Clippings.md",
@@ -216,16 +226,7 @@
     "VARIOUS/Self-Host Your Homelab Tunnels On bunny.net.md",
     "LLM/Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide).md",
     "LLM/Prompting Techniques.md",
-    "LLM/Prompt engineering  OpenAI API.md",
-    "LLM/Open-Source LLM Tools Worth Your Time.md",
-    "Clippings/Open-Source LLM Tools Worth Your Time 1.md",
-    "LAZARUS/DaisyDisk, the most popular disk space analyzer.md",
-    "SECURITY/Copy Fail — 732 Bytes to Root.md",
-    "SECURITY/SECURITY.md",
     "SECURITY",
-    "AI/AI Engineer.md",
-    "VARIOUS/4 Best Freedium Alternatives to Read Medium Articles for Free Working.md",
-    "FOREX/Volume Profile Effective Trading Guide.md",
     "LAZARUS",
     "FOREX",
     "INFRA",
@@ -234,7 +235,6 @@
     "DAILY_NOTES",
     "Untitled.base",
     "TRASH/Untitled 2.base",
-    "TRASH/Untitled 1.base",
-    "TRASH/Untitled.base"
+    "TRASH/Untitled 1.base"
   ]
 }
