@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md",
+                "file": "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible."
+              "title": "Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "2caec1b7a39a7210",
+            "id": "216c4ba570816fd2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,8 +175,21 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "f6677a9975a5fe39",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible."
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,8 +212,11 @@
   },
   "active": "2a14a4f383b8a91f",
   "lastOpenFiles": [
-    "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy).md",
+    "Tags/#clippings forex",
+    "Clippings/Volume-Weighted Average Price Indicator (VWAP) With Examples.md",
+    "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1.md",
     "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md",
+    "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy).md",
     "Clippings AI LLM",
     "Clippings/Order Flow and Market Profile Course.md",
     "Clippings/The best course I've ever watched is for free.md",
@@ -223,9 +239,6 @@
     "SECURITY/Trivy vs Grype vs Snyk Container Vulnerability Scanners Shootout.md",
     "LAZARUS/Soulver for Mac, iPad & iPhone.md",
     "LLM/Setting Up Claude Code With Ollama A Guide.md",
-    "VARIOUS/Self-Host Your Homelab Tunnels On bunny.net.md",
-    "LLM/Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide).md",
-    "LLM/Prompting Techniques.md",
     "SECURITY",
     "LAZARUS",
     "FOREX",
