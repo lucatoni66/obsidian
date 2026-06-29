@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1.md",
+                "file": "Clippings/Pricing Plans — Start Free, Upgrade Anytime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1"
+              "title": "Pricing Plans — Start Free, Upgrade Anytime"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "216c4ba570816fd2",
+            "id": "15d5cbff5bded2de",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,9 +212,11 @@
   },
   "active": "2a14a4f383b8a91f",
   "lastOpenFiles": [
+    "Clippings/Order Flow Chart - Footprint  Indicator for MetaTrader 45.md",
+    "Clippings/Pricing Plans — Start Free, Upgrade Anytime.md",
+    "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1.md",
     "Tags/#clippings forex",
     "Clippings/Volume-Weighted Average Price Indicator (VWAP) With Examples.md",
-    "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1.md",
     "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md",
     "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy).md",
     "Clippings AI LLM",
@@ -238,7 +240,6 @@
     "HERMES/Memory Providers I tested them all.md",
     "SECURITY/Trivy vs Grype vs Snyk Container Vulnerability Scanners Shootout.md",
     "LAZARUS/Soulver for Mac, iPad & iPhone.md",
-    "LLM/Setting Up Claude Code With Ollama A Guide.md",
     "SECURITY",
     "LAZARUS",
     "FOREX",
@@ -247,7 +248,6 @@
     "Untitled.canvas",
     "DAILY_NOTES",
     "Untitled.base",
-    "TRASH/Untitled 2.base",
-    "TRASH/Untitled 1.base"
+    "TRASH/Untitled 2.base"
   ]
 }
