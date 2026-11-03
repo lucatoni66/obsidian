@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Pricing Plans — Start Free, Upgrade Anytime.md",
+                "file": "Clippings/AI Model & API Providers Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pricing Plans — Start Free, Upgrade Anytime"
+              "title": "AI Model & API Providers Analysis"
             }
           }
         ]
@@ -69,13 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           },
           {
-            "id": "15d5cbff5bded2de",
+            "id": "c2c9917c7c571dc2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,8 +215,28 @@
   },
   "active": "2a14a4f383b8a91f",
   "lastOpenFiles": [
-    "Clippings/Order Flow Chart - Footprint  Indicator for MetaTrader 45.md",
+    "Clippings/DeepSWE.md",
+    "Clippings/AI Model & API Providers Analysis.md",
+    "Clippings/Configure Virtual Switch with an EtherChannel (or port channel).md",
+    "Clippings/Configuring a LAG on a vSphere Distributed Switch Port Group when using LACP.md",
+    "Clippings/Restoring from vCenter appliance backup 1.md",
+    "Clippings/Restoring from vCenter appliance backup.md",
+    "Clippings/Updating Cisco Nexus 9K firmware via SSH.md",
+    "Clippings/ArtCraft.md",
+    "Clippings/New chat.md",
+    "MAIN KANBAN.md",
+    "VARIOUS/Sveltekit Redis cashing.md",
+    "VARIOUS/VARIOUS.md",
+    "Clippings/A free svelte template themes & templates directory..md",
+    "LINKS.md",
+    "Vault.md",
+    "Clippings/Stop Trading Like It's 1999 — I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13.md",
+    "Clippings oscp/AMAZING OSCP learning gem I stumbled across on YouTube!!.md",
+    "Clippings/8 New Kali Linux Tools Released in 2026 That Nobody Is Talking.md",
+    "Clippings oscp",
+    "Clippings/AGENTS.md The One File That Makes AI Coding Agents Actually Useful.md",
     "Clippings/Pricing Plans — Start Free, Upgrade Anytime.md",
+    "Clippings/Order Flow Chart - Footprint  Indicator for MetaTrader 45.md",
     "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy) 1.md",
     "Tags/#clippings forex",
     "Clippings/Volume-Weighted Average Price Indicator (VWAP) With Examples.md",
@@ -221,25 +244,6 @@
     "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy).md",
     "Clippings AI LLM",
     "Clippings/Order Flow and Market Profile Course.md",
-    "Clippings/The best course I've ever watched is for free.md",
-    "Clippings/Forex Correlation.md",
-    "Clippings/TWS API Documentation.md",
-    "Clippings/Saxo Bank Developer Portal.md",
-    "Clippings/Developer-first API for Stock, Options, Crypto Trading.md",
-    "Clippings/I Built a FREE TradingView Alternative Using AI (Any Indicator).md",
-    "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check.md",
-    "LLM/Can I Run AI on My GPU or Mac Free Compatibility Check 1.md",
-    "DAILY_NOTES/2026-06-18.md",
-    "SECURITY/The All-in-One Security Scanner.md",
-    "Clippings/Clippings.md",
-    "LLM/Mac Studio M3 Ultra 96GB AI Tier List 325 models ranked.md",
-    "LAZARUS/Soulver 3 - Notepad Calculator App for Mac, iPad & iPhone.md",
-    "LLM/Welcome to FastMCP.md",
-    "VARIOUS/Your favorite operating systems in one place 1.md",
-    "HERMES/My Hermes Journey.md",
-    "HERMES/Memory Providers I tested them all.md",
-    "SECURITY/Trivy vs Grype vs Snyk Container Vulnerability Scanners Shootout.md",
-    "LAZARUS/Soulver for Mac, iPad & iPhone.md",
     "SECURITY",
     "LAZARUS",
     "FOREX",
@@ -247,7 +251,6 @@
     "HERMES",
     "Untitled.canvas",
     "DAILY_NOTES",
-    "Untitled.base",
-    "TRASH/Untitled 2.base"
+    "Untitled.base"
   ]
 }

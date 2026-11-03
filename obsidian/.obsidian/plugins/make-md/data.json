@@ -41,7 +41,8 @@
     "/",
     "//Tags",
     "//DAILY_NOTES",
-    "//Clippings"
+    "//Clippings",
+    "//VARIOUS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
