@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/AI Model & API Providers Analysis.md",
+                "file": "Clippings/Choosing KDE over GNOME in xrdp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Model & API Providers Analysis"
+              "title": "Choosing KDE over GNOME in xrdp"
             }
           }
         ]
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "c2c9917c7c571dc2",
+            "id": "45aac9b9788ba99e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -215,8 +215,9 @@
   },
   "active": "2a14a4f383b8a91f",
   "lastOpenFiles": [
-    "Clippings/DeepSWE.md",
     "Clippings/AI Model & API Providers Analysis.md",
+    "Clippings/Choosing KDE over GNOME in xrdp.md",
+    "Clippings/DeepSWE.md",
     "Clippings/Configure Virtual Switch with an EtherChannel (or port channel).md",
     "Clippings/Configuring a LAG on a vSphere Distributed Switch Port Group when using LACP.md",
     "Clippings/Restoring from vCenter appliance backup 1.md",
@@ -243,7 +244,6 @@
     "Clippings AI LLM/I built a 325K-line enterprise platform in 11 months (solo). Here's how AI changed what's possible..md",
     "Clippings/Trading LIVE with the 1 Scalper in the WORLD (EXTREME Accuracy).md",
     "Clippings AI LLM",
-    "Clippings/Order Flow and Market Profile Course.md",
     "SECURITY",
     "LAZARUS",
     "FOREX",
